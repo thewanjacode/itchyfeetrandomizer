@@ -2,7 +2,7 @@
 const apiURL = 'https://restcountries.com/v3.1/all';
 
 // Genre list (you can add more genres here)
-const genres = ["⁠Contemporary/literary fiction", "⁠Classic fiction ", "Setting Genre Fiction (sci fi, fantasy, horror, historical)","⁠Character Genre Fiction (romance, crime)", "Short Story/Collection"];
+const genres = ["⁠Contemporary/Literary Fiction", "⁠Classic Fiction", "Setting Genre Fiction (sci fi, fantasy, horror, historical)","⁠Character Genre Fiction (romance, crime)", "Short Story/Collection"];
 
 // Get the elements
 const randomizeBtn = document.getElementById('randomize-btn');
