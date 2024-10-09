@@ -55,6 +55,13 @@ footer {
     background-color: #38b6ff;
 }
 
+#bookCover {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 
 .button-56 {
   align-self: center;
